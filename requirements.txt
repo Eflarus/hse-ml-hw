@@ -1,0 +1,13 @@
+numpy~=2.0.2
+pandas~=2.2.3
+matplotlib~=3.9.4
+seaborn~=0.13.2
+l0learn~=0.4.3
+ydata-profiling~=4.12.1
+phik~=0.12.4
+scikit-learn~=1.6.0
+pydantic~=2.10.4
+fastapi~=0.112.2
+python-multipart
+uvicorn
+joblib~=1.4.2
