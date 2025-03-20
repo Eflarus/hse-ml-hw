@@ -1,0 +1,5 @@
+,DT (real features),DT (categorical features),DT (real features + one-hot),sklearn DT
+mushrooms,0.9993,1.0000,0.9996,0.9604
+tic-tac-toe,0.4675,0.5498,0.5436,0.7790
+cars,0.9426,0.9652,0.9195,0.9427
+nursery,0.9997,0.9995,0.9995,0.9997

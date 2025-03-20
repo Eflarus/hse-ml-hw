@@ -11,3 +11,13 @@ fastapi~=0.112.2
 python-multipart
 uvicorn
 joblib~=1.4.2
+requests~=2.32.3
+bs4~=0.0.2
+beautifulsoup4~=4.12.3
+psycopg2-binary~=2.9.10
+shap~=0.47.0
+lime~=0.2.0.1
+optuna~=4.2.1
+scipy~=1.13.1
+tqdm~=4.67.1
+selenium~=4.27.1
